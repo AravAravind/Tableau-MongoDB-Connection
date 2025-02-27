@@ -34,19 +34,19 @@ Tableau MongoDB Connection – A step-by-step guide on connecting Tableau to a M
 - Done! Your MongoDB database is now connected to Tableau.  
 
 
-![2](2.png)
+![2](images/2.png)
 
 
-![3](3.png)
+![3](images/3.png)
 
 
 ## Confirmation 
 
  
-![4](4.png)  
+![4](images/4.png)  
 
 
-![5](5.png)
+![5](images/5.png)
 
 
 ## Troubleshooting Tips  
