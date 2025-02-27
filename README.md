@@ -11,10 +11,11 @@ Tableau MongoDB Connection – A step-by-step guide on connecting Tableau to a M
 
 ### 1. Run the MongoDB BI Connector (`mongosqld`)  
 
-- Open **Command Prompt** and run:  
-  ```shell
-  "C:\Program Files\MongoDB\Connector for BI\2.14\bin\mongosqld.exe"
+- Navigate to the following path on your system:  
+  ```
+  C:\Program Files\MongoDB\Connector for BI\2.14\bin\
   ```  
+- Double-click **`mongosqld.exe`** to run it.  
 - If you installed it in a different directory, update the path accordingly.  
 - The server and port will be displayed in the terminal. 
 
