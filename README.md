@@ -57,7 +57,8 @@ Tableau MongoDB Connection – A step-by-step guide on connecting Tableau to a M
 - Use the correct **server address** and **port** from the `mongosqld` terminal.  
 - If connection issues occur, check **firewall settings** and **driver compatibility**.  
 
-## Author  
+## Connect with Me
 
-[Aravind R](https://linkedin.com/in/arav-r) 
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=arav-r)
+
 
